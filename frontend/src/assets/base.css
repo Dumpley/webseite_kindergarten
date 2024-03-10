@@ -1,0 +1,14 @@
+/* declaration of css variables */
+
+:root {
+    --body-bg: #91972A;
+    --primary-color: #D8D174;
+    --text-color: #fbffeb;
+    --text-color-secondary: #d9ff4e;
+    --text-dark: #2d2d2d;
+    --secondary-color: #E6D3A3;
+    --nav-bg: #B6C454;
+    --primary-font-color: white;
+    --text-size: 1em;
+    --margin-top-header: 1.5em;
+}
