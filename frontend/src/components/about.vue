@@ -26,7 +26,7 @@
 
 <script setup>
 import { ref } from "vue";
-import TextEditor from "@/components/css_components/text_editior.vue";
+import TextEditor from "@/components/css_components/text_editor.vue";
 import { useAdminStore } from "@/stores/admin_editing_state";
 
 const editor_mode = ref(false);

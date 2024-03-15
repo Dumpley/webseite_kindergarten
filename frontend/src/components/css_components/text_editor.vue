@@ -26,7 +26,7 @@
  * @param {Number} max_length - Optional. The maximum length of the text that can be entered into the text editor. Default is 100.
  */
 export default {
-    name: "TextEditior",
+    name: "TextEditor",
     data() {
         return {
             text: this.sample_text,
