@@ -142,7 +142,6 @@ function smoothScroll() {
 .wrapper > * {
     pointer-events: none;
 }
-
 .wrapper .item {
     background: rgb(106, 118, 62);
     display: flex-start;
